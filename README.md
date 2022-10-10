@@ -15,3 +15,11 @@ This Script can help you with downloading entire YouTube Playlist in one go.
 
 
 ### Note : The files will be downloaded in the current(working) directory
+
+
+
+## Things to be done:
+- Make minor changes to let user download just single videos too
+- Introduce start and stop pointers, so we can download playlist in parts.
+- Exception Handling
+- ....
