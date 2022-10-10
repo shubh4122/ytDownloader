@@ -22,4 +22,5 @@ This Script can help you with downloading entire YouTube Playlist in one go.
 - Make minor changes to let user download just single videos too
 - Introduce start and stop pointers, so we can download playlist in parts.
 - Exception Handling
+- Do something so the videos maintain order, once downloaded. Maybe add numbers to their name before downloading
 - ....
